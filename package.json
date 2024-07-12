@@ -1,9 +1,9 @@
 {
   "name": "auto-file-mailer",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Raj Pateriya",
