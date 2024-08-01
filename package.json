@@ -1,16 +1,15 @@
 {
   "name": "auto-file-mailer",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "Mailer.js",
   "scripts": {
-    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Raj Pateriya",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "fs": "^0.0.1-security",
+    "imap-simple": "^5.1.0",
     "nodemailer": "^6.9.14",
     "xlsx": "^0.18.5"
   }
